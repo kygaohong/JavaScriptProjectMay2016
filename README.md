@@ -1,27 +1,4 @@
-﻿This project is to fufill the requirement of CodeLouisville training for JavaScrip
-The detail requirments:
-https://docs.google.com/presentation/d/1A1P955ZlZKez2w3ENOrERpRln67Z9hfIxFPj5U1Ig6I/edit#slide=id.p
-https://github.com/CodeLouisville/Student-Resources/wiki/Project-Requirements
-
-
-Here are some examples of projects built using the MEAN stack (full-stack JavaScript): http://www.fullstackacademy.com/student-gallery
-
-You’re the first group to learn/use the MEAN stack, so we don’t have any full-stack JS examples to show from prior Code Louisville graduates, 
-but you can find a list of demo videos (we no longer record these) on our YouTube channel, here: 
-https://www.youtube.com/playlist?list=PLKFlVlvK_fALmJ2QLM9PxOMb3qTubclsz
-
-
-Git commands to update files at Github
-	(right click on the folder, and select "Git Bash Here")
-	git init //only used for the 1st time
-	git add .
-	git commit -m 'some message for the update'
-	git remote -v
-	git remote add origin https://github.com/bjxiezz/Weather.git // only for the first time
-	git push origin master
-	
-	--copy from gitHub to local computer drive
-	git clone https://github.com/bjxiezz/Weather.git
+This project is built with HTML, CSS, and full stack JavaScript (front-end framework Angular, Express, Node.js and MongoDB) to fufill the requirement of CodeLouisville training for Full Stack JavaScript. Media Queries were used to make this website responsive for different device sizes.  
 
 Cities to test the app (We can use any city all over the world)
 	Prudhoe bay, AL
